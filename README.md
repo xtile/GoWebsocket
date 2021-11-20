@@ -15,7 +15,7 @@ This client provides following easy to implement functionality
 To install use
 
 ```markdown
-    go get github.com/sacOO7/gowebsocket
+    go install  github.com/xtile/GoWebsocket
 ```
 
 Description
@@ -45,7 +45,7 @@ Create instance of `Websocket` by passing url of websocket-server end-point
     
     import (
     	"log"
-    	"github.com/sacOO7/gowebsocket"
+    	"github.com/xtile/GoWebsocket"
         "os"
         "os/signal"
     )
