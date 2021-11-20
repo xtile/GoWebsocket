@@ -1,4 +1,4 @@
-module github.com/sacOO7/GoWebsocket
+module github.com/xtile/GoWebsocket
 
 go 1.16
 
